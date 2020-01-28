@@ -1,0 +1,5 @@
+C:\Users\blicq\source\repos\Zenburp.Maths\Zenburp.Maths\bin\Debug\netstandard2.0\Zenburp.Maths.deps.json
+C:\Users\blicq\source\repos\Zenburp.Maths\Zenburp.Maths\bin\Debug\netstandard2.0\Zenburp.Maths.dll
+C:\Users\blicq\source\repos\Zenburp.Maths\Zenburp.Maths\obj\Debug\netstandard2.0\Zenburp.Maths.csprojAssemblyReference.cache
+C:\Users\blicq\source\repos\Zenburp.Maths\Zenburp.Maths\obj\Debug\netstandard2.0\Zenburp.Maths.AssemblyInfoInputs.cache
+C:\Users\blicq\source\repos\Zenburp.Maths\Zenburp.Maths\obj\Debug\netstandard2.0\Zenburp.Maths.AssemblyInfo.cs

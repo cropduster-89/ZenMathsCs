@@ -1,0 +1,3 @@
+C:\Users\blicq\source\repos\Zenburp.Maths\MathsTest\obj\Debug\netcoreapp3.1\MathsTest.csprojAssemblyReference.cache
+C:\Users\blicq\source\repos\Zenburp.Maths\MathsTest\obj\Debug\netcoreapp3.1\MathsTest.AssemblyInfoInputs.cache
+C:\Users\blicq\source\repos\Zenburp.Maths\MathsTest\obj\Debug\netcoreapp3.1\MathsTest.AssemblyInfo.cs
